@@ -9,8 +9,8 @@ For lots of people, getting excited to go into the gym is hard. With every other
 * [Raw Data](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/commit/643ad73038e57df760b5051aaf8e29f60329c77c "Raw Data")
 * [Processed Data](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/tree/master/data/processed "Processed Data")
 ### 2. Documents
-* [Final Report](https://github.com/theGetz1995/Starcraft2LeagueClassification/blob/main/docs/Starcraft%20II%20Final%20Report.pdf "Final Report")
-* [Presentation](https://github.com/theGetz1995/Starcraft2LeagueClassification/blob/main/docs/Starcraft%202%20Presentation.pdf "Presentation")
+* [Final Report](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/blob/master/reports/WODWELL%20final%20report.pdf "Final Report")
+* [Presentation](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/blob/master/docs/WODWELL%20Workout%20Popularity%20Analysis.pdf "Presentation")
 ### 3. Notebooks
 * [Data Scraping](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/blob/master/notebooks/01%20Data%20Scraping.ipynb "Data Scraping")
 * [Data Cleaning](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/blob/master/notebooks/02%20Data%20Cleaning.ipynb "Data Cleaning")
