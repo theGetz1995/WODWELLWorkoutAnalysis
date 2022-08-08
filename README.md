@@ -15,4 +15,4 @@ For lots of people, getting excited to go into the gym is hard. With every other
 * [Data Scraping](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/blob/master/notebooks/01%20Data%20Scraping.ipynb "Data Scraping")
 * [Data Cleaning](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/blob/master/notebooks/02%20Data%20Cleaning.ipynb "Data Cleaning")
 * [Data Wrangling](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/blob/master/notebooks/03%20Data%20Wrangling%20part%202.ipynb "Data Wrangling")
-* [Modeling](https://github.com/theGetz1995/Starcraft2LeagueClassification/blob/main/notebooks/08_Getz_Modeling.ipynb "Modeling")
+* [Modeling](https://github.com/theGetz1995/WODWELLWorkoutAnalysis/blob/master/notebooks/06%20Modeling.ipynb "Modeling")
